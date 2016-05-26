@@ -1,0 +1,284 @@
+[22-Apr-2014 16:13:39 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[06-Jun-2014 06:53:24 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/theme.php on line 671
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-styles.php on line 19
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom.php on line 8
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/mazhaerc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/mazhaerc/public_html/wp-includes/default-widgets.php on line 14
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/class-wp-embed.php on line 20
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/kses.php on line 1422
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/admin-bar.php on line 48
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/post-formats.php on line 170
+[06-Jun-2014 06:53:25 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[06-Jun-2014 06:53:26 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/author-template.php on line 459
+[06-Jun-2014 06:53:26 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[06-Jun-2014 06:53:26 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/mazhaerc/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss.php on line 8
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[06-Jun-2014 06:53:27 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/comment-template.php on line 1546
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to access ABSPATHWPINC/class-simplepie.php in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/category-template.php on line 886
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss.php on line 19
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[06-Jun-2014 06:53:28 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/shortcodes.php on line 407
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/class-snoopy.php on line 6
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/mazhaerc/public_html/wp-includes/update.php on line 629
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/ms-default-filters.php on line 17
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/mazhaerc/public_html/wp-includes/template-loader.php on line 28
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom-comments.php on line 8
+[06-Jun-2014 06:53:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-default-constants.php on line 151
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/mazhaerc/public_html/wp-includes/media.php on line 769
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/post-template.php on line 1186
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-scripts.php on line 19
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[06-Jun-2014 06:53:30 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[06-Jun-2014 06:53:31 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/canonical.php on line 530
+[06-Jun-2014 06:53:31 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-functions.php on line 2064
+[06-Jun-2014 06:53:31 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/nav-menu-template.php on line 16
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/default-filters.php on line 17
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/taxonomy.php on line 129
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2.php on line 8
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rdf.php on line 8
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/general-template.php on line 1608
+[06-Jun-2014 06:53:32 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/mazhaerc/public_html/wp-includes/vars.php on line 23
+[06-Jun-2014 06:55:22 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/kses.php on line 1422
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/theme.php on line 671
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom.php on line 8
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/class-wp-embed.php on line 20
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/admin-bar.php on line 48
+[10-Jun-2014 08:11:56 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-styles.php on line 19
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/mazhaerc/public_html/wp-includes/default-widgets.php on line 14
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/mazhaerc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/post-formats.php on line 170
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[10-Jun-2014 08:11:57 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/author-template.php on line 459
+[10-Jun-2014 08:11:58 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[10-Jun-2014 08:11:59 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/mazhaerc/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss.php on line 8
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[10-Jun-2014 08:12:00 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/comment-template.php on line 1546
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to access ABSPATHWPINC/class-simplepie.php in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[10-Jun-2014 08:12:01 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/category-template.php on line 886
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss.php on line 19
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/class-snoopy.php on line 6
+[10-Jun-2014 08:12:02 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/shortcodes.php on line 407
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/mazhaerc/public_html/wp-includes/update.php on line 629
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/mazhaerc/public_html/wp-includes/template-loader.php on line 28
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/ms-default-filters.php on line 17
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom-comments.php on line 8
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-default-constants.php on line 151
+[10-Jun-2014 08:12:03 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/mazhaerc/public_html/wp-includes/media.php on line 769
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/post-template.php on line 1186
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-scripts.php on line 19
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/canonical.php on line 530
+[10-Jun-2014 08:12:04 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-functions.php on line 2064
+[10-Jun-2014 08:12:05 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/nav-menu-template.php on line 16
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/default-filters.php on line 17
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/taxonomy.php on line 129
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2.php on line 8
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rdf.php on line 8
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/general-template.php on line 1608
+[10-Jun-2014 08:12:06 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/mazhaerc/public_html/wp-includes/vars.php on line 23
+[10-Jun-2014 08:14:32 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[12-Jun-2014 18:13:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/class-wp-embed.php on line 20
+[12-Jun-2014 18:13:28 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/mazhaerc/public_html/wp-includes/default-widgets.php on line 14
+[12-Jun-2014 18:13:28 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/kses.php on line 1422
+[12-Jun-2014 18:13:28 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-styles.php on line 19
+[12-Jun-2014 18:13:28 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/mazhaerc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/theme.php on line 671
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/admin-bar.php on line 48
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom.php on line 8
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[12-Jun-2014 18:13:29 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/post-formats.php on line 170
+[12-Jun-2014 18:13:30 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[12-Jun-2014 18:13:30 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/author-template.php on line 459
+[12-Jun-2014 18:13:30 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[12-Jun-2014 18:13:30 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[12-Jun-2014 18:13:30 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/mazhaerc/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss.php on line 8
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[12-Jun-2014 18:13:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/comment-template.php on line 1546
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to access ABSPATHWPINC/class-simplepie.php in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/category-template.php on line 886
+[12-Jun-2014 18:13:33 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss.php on line 19
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[12-Jun-2014 18:13:34 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/class-snoopy.php on line 6
+[12-Jun-2014 18:13:35 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/shortcodes.php on line 407
+[12-Jun-2014 18:13:35 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/mazhaerc/public_html/wp-includes/update.php on line 629
+[12-Jun-2014 18:13:35 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/ms-default-filters.php on line 17
+[12-Jun-2014 18:13:35 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/mazhaerc/public_html/wp-includes/template-loader.php on line 28
+[12-Jun-2014 18:13:36 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom-comments.php on line 8
+[12-Jun-2014 18:13:36 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-default-constants.php on line 151
+[12-Jun-2014 18:13:36 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/mazhaerc/public_html/wp-includes/media.php on line 769
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/post-template.php on line 1186
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-scripts.php on line 19
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/canonical.php on line 530
+[12-Jun-2014 18:13:37 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-functions.php on line 2064
+[12-Jun-2014 18:13:38 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/nav-menu-template.php on line 16
+[12-Jun-2014 18:13:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/default-filters.php on line 17
+[12-Jun-2014 18:13:40 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/taxonomy.php on line 129
+[12-Jun-2014 18:13:40 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2.php on line 8
+[12-Jun-2014 18:13:40 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rdf.php on line 8
+[12-Jun-2014 18:13:41 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/general-template.php on line 1608
+[12-Jun-2014 18:13:41 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/mazhaerc/public_html/wp-includes/vars.php on line 23
+[12-Jun-2014 18:16:09 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/theme.php on line 671
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Class 'IXR_Server' not found in /home/mazhaerc/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/admin-bar.php on line 48
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom.php on line 8
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/mazhaerc/public_html/wp-includes/default-widgets.php on line 14
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/kses.php on line 1422
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-styles.php on line 19
+[13-Jun-2014 11:13:42 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/class-wp-embed.php on line 20
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2-comments.php on line 8
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/post-formats.php on line 170
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/author-template.php on line 459
+[13-Jun-2014 11:13:43 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[13-Jun-2014 11:13:44 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[13-Jun-2014 11:13:44 Europe/Moscow] PHP Fatal error:  Class 'IXR_Client' not found in /home/mazhaerc/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[13-Jun-2014 11:13:44 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss.php on line 8
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/SimplePie/Misc.php in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/comment-template.php on line 1546
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: Unable to access ABSPATHWPINC/class-simplepie.php in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/class-feed.php on line 4
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/ms-load.php in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/ms-settings.php on line 14
+[13-Jun-2014 11:13:45 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/category-template.php on line 886
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss.php on line 19
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/class.wp-dependencies.php in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/class-snoopy.php on line 6
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/shortcodes.php on line 407
+[13-Jun-2014 11:13:46 Europe/Moscow] PHP Fatal error:  Call to undefined function is_main_site() in /home/mazhaerc/public_html/wp-includes/update.php on line 629
+[13-Jun-2014 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/ms-default-filters.php on line 17
+[13-Jun-2014 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function is_robots() in /home/mazhaerc/public_html/wp-includes/template-loader.php on line 28
+[13-Jun-2014 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-atom-comments.php on line 8
+[13-Jun-2014 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-default-constants.php on line 151
+[13-Jun-2014 11:13:47 Europe/Moscow] PHP Fatal error:  Call to undefined function add_shortcode() in /home/mazhaerc/public_html/wp-includes/media.php on line 769
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/post-template.php on line 1186
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/mazhaerc/public_html/wp-includes/class.wp-scripts.php on line 19
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Warning:  require() [<a href='function.require'>function.require</a>]: Unable to access ABSPATHWPINC/option.php in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Warning:  require(ABSPATHWPINC/option.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mazhaerc/public_html/wp-includes/functions.php on line 8
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/canonical.php on line 530
+[13-Jun-2014 11:13:48 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/ms-functions.php on line 2064
+[13-Jun-2014 11:13:49 Europe/Moscow] PHP Fatal error:  Class 'Walker' not found in /home/mazhaerc/public_html/wp-includes/nav-menu-template.php on line 16
+[13-Jun-2014 11:13:49 Europe/Moscow] PHP Fatal error:  Call to undefined function add_filter() in /home/mazhaerc/public_html/wp-includes/default-filters.php on line 17
+[13-Jun-2014 11:13:49 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/taxonomy.php on line 129
+[13-Jun-2014 11:13:49 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rss2.php on line 8
+[13-Jun-2014 11:13:49 Europe/Moscow] PHP Fatal error:  Call to undefined function feed_content_type() in /home/mazhaerc/public_html/wp-includes/feed-rdf.php on line 8
+[13-Jun-2014 11:13:50 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/general-template.php on line 1608
+[13-Jun-2014 11:13:50 Europe/Moscow] PHP Fatal error:  Call to undefined function is_admin() in /home/mazhaerc/public_html/wp-includes/vars.php on line 23
+[13-Jun-2014 11:15:27 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[24-Aug-2014 18:42:56 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[25-Aug-2014 17:53:24 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/rss-functions.php on line 8
+[05-Sep-2014 06:36:08 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[05-Sep-2014 06:49:53 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[05-Sep-2014 06:49:54 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[05-Sep-2014 06:49:55 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[05-Sep-2014 06:49:57 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[07-Sep-2014 04:49:58 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[07-Sep-2014 04:50:00 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[07-Sep-2014 04:50:01 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[07-Sep-2014 04:50:03 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[07-Sep-2014 04:54:31 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[07-Sep-2014 04:54:32 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 07:23:12 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 07:23:17 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 07:24:14 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 07:24:32 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[25-Sep-2014 07:24:33 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration-functions.php on line 7
+[25-Sep-2014 07:24:36 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[25-Sep-2014 07:24:58 Europe/Moscow] PHP Fatal error:  Call to undefined function add_action() in /home/mazhaerc/public_html/wp-includes/post.php on line 167
+[25-Sep-2014 07:25:01 Europe/Moscow] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/mazhaerc/public_html/wp-includes/registration.php on line 7
+[23-Oct-2014 16:59:17 Europe/Moscow] PHP Fatal error:  Class 'WP_Widget' not found in /home/mazhaerc/public_html/wp-includes/default-widgets.php on line 14
+[23-Oct-2014 16:59:17 Europe/Moscow] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/mazhaerc/public_html/wp-includes/class-wp-image-editor-gd.php on line 17

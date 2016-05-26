@@ -1,0 +1,32 @@
+.select-style{
+        background: #444444 0px 0px; color: #ffffff; font-size: 14px; border: #000000 1px solid; padding: 5px;
+}
+.blackdiv{background:url(../img/blackdiv_bg.png) repeat}
+#loader_container {text-align:center;position:absolute;top:40%;width:100%;left: 0;z-index:9999999;}
+#loader {padding:20px 25px;height:78px;line-height:38px;margin:0 auto;display:block;width:186px;text-align:left;z-index:2;}
+#loader{background:url(../img/lodingx.png) no-repeat;}
+#loader img{float:left;margin:5px 5px 0 0}
+table.hovertable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#fff;
+    border-width: 1px;
+    border-color: #000000;
+    border-collapse: collapse;
+}
+table.hovertable th {
+    background-color:#444444;
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #000000;
+}
+table.hovertable tr {
+    background-color:#444444;
+}
+table.hovertable td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #000000;
+}

@@ -1,0 +1,34 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>马扎网：站点维护中...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+  body{margin:0;color:#222;font:16px/1.7 'Helvetica Neue',Helvetica,Arial,Sans-serif;background:#eff2f5;}img{border:none;}a{text-decoration:none;color:#105cb6;}a:hover{text-decoration:underline;}.error{margin:169px auto 0;width:404px;}.error-wide{width:500px;}@media (max-width:500px){.error{width:98%;}}.error .header{overflow:hidden;font-size:1.8em;line-height:1.2;margin:0 0 .33em .33em;text-align: center;}.error .header img{vertical-align:text-bottom;}.error .header .mute{color:#999;font-size:.5em;}.error hr{margin:1.3em 0;}.error p{margin:0 0 1.7em;color:#999;}.error p:last-child{margin-bottom:0;}.error strong{font-size:1.1em;color:#000;text-align: center;}.error .content{padding:2em 1.25em;border:1px solid #babbbc;border-radius:5px;background:#f7f7f7;text-align:center;}.error .content .single{margin:3em 0;font-size:1.1em;color:#666;}.logo_img{ max-height:80px;width:94px;}
+  </style>
+ <link rel="shortcut icon" href="http://mazhaer.com/wp-content/themes/presscore-lite/img/favicon.ico" />
+</head>
+<body>
+
+<div class="page">
+  <div class="error error-wide">
+    <div class="header">
+      <a href="/" id="page_logo" class="fl">
+        <img class="logo_img" src="http://mazhaer.com/wp-content/themes/presscore-lite/img/logo.png" alt="马扎网：音乐心情每一天~" />
+      </a>
+      <br />
+      <strong class="mute">马扎网：音乐心情每一天~</strong>
+    </div>
+    <div class="content">
+      <p class="single">小站现在正在升级维护,马上就好...</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

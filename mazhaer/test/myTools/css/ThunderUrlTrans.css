@@ -1,0 +1,104 @@
+#main_body
+{
+	height:350px;width:600px;
+	font-family: Arial, Helvetica;
+	background: #c4c4c5 url('images/background.png') top left repeat-x;
+	text-align: center;
+	color: #222222;
+	text-shadow: 0px 1px 0px #fff;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	margin-top: 5%;
+}
+
+#main_div
+{
+	width:400px; height:300px; border:1px;
+	position: absolute;
+	left:30%;
+	top:20%;
+}
+
+#refresh
+{
+	margin-left:370px;
+
+}
+
+#title_div
+{
+	width:392px; height:30px; border:0px;
+}
+
+#lcImage
+{
+	width:27px; height:27px;
+	float: left;
+	margin-left:55px;
+}
+
+#title
+{
+	font-family: 微软雅黑;
+	font-size: 23px;
+	float: left;
+	margin-left:20px;
+}
+
+#startURL
+{
+	
+	font-family: 微软雅黑;
+	font-size: 16px;
+	color:#545454;
+	margin-top:30px;
+}
+
+#submitUrl
+{
+	width:27px; height:27px;  border:0; no-repeat; vertical-align:top;
+	margin-top:10px;
+	position: absolute;
+	left:42%;
+}
+
+#transURL
+{
+	font-family: 微软雅黑;
+	font-size: 16px;
+	color:#545454;
+	margin-top:50px;
+}
+
+#btnCopy
+{
+	width:35px; height:35px;  border:0;
+	margin-top:20px;
+	position: absolute;
+	left:40%;
+	top:80%;
+}
+
+input.image-sprites {
+	padding: 4px 1px 4px 6px;
+	height: 27px;
+	width: 390px;
+	outline: none;
+	background: url('images/input.png') top center no-repeat;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	border: 0;
+	-webkit-box-shadow: 0 0 0;
+	-moz-box-shadow: 0 0 0;
+	box-shadow: 0 0 0;
+}
+
+	input.image-sprites:focus {
+		background: url('images/input.png') bottom center no-repeat;
+		-webkit-box-shadow: 0px 0px 0px;
+		-moz-box-shadow: 0px 0px 0px;
+		box-shadow: 0px 0px 0px;
+		height: 27px;
+	}

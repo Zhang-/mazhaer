@@ -1,0 +1,794 @@
+[06-Jun-2014 02:56:07 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[06-Jun-2014 02:56:07 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[06-Jun-2014 02:56:08 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[06-Jun-2014 02:56:08 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[07-Jun-2014 10:39:58 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[10-Jun-2014 04:15:22 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[10-Jun-2014 04:15:22 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[10-Jun-2014 04:15:24 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[10-Jun-2014 04:15:24 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[12-Jun-2014 14:17:09 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[12-Jun-2014 14:17:09 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[12-Jun-2014 14:17:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[12-Jun-2014 14:17:10 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[13-Jun-2014 07:16:09 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[13-Jun-2014 07:16:09 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[13-Jun-2014 07:16:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[13-Jun-2014 07:16:10 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/formatting.php on line 1119
+[20-Jun-2014 08:10:51 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (693, 705, 710, 715, 721, 730, 736) ORDER BY t.name ASC时发生Got error 28 from storage engine错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update[22-Jul-2014 10:37:02 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[22-Jul-2014 11:32:28 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[23-Jul-2014 07:31:37 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[23-Jul-2014 13:33:17 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[01-Aug-2014 20:30:12 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[06-Aug-2014 02:28:03 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[06-Aug-2014 03:30:59 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[06-Aug-2014 05:29:40 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[06-Aug-2014 10:30:06 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[06-Aug-2014 11:28:49 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[07-Aug-2014 09:27:10 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[09-Aug-2014 09:28:50 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[09-Aug-2014 10:28:56 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[11-Aug-2014 19:28:44 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[12-Aug-2014 09:00:21 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[12-Aug-2014 10:58:32 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[12-Aug-2014 14:42:59 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[12-Aug-2014 17:31:18 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[14-Aug-2014 08:26:57 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message 'Recv failure: Connection reset by peer' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[16-Aug-2014 11:32:02 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 09:33:52 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 09:33:53 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 10:27:57 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 11:28:02 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 12:34:10 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[17-Aug-2014 14:28:21 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[20-Aug-2014 00:27:51 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[20-Aug-2014 01:28:34 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[20-Aug-2014 08:29:17 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[24-Aug-2014 11:06:30 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[30-Aug-2014 17:40:50 UTC] PHP Fatal error:  Call to undefined function presscore_header() in /home/mazhaerc/public_html/wp-content/themes/presscore-lite/header.php on line 1
+[03-Sep-2014 22:07:02 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (107) ORDER BY t.name ASC时发生Out of resources when opening file '/tmp/#sql_1753_0.MYI' (Errcode: 24)错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[03-Sep-2014 22:07:48 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (107) ORDER BY t.name ASC时发生Out of resources when opening file '/tmp/#sql_1753_0.MYI' (Errcode: 24)错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[03-Sep-2014 22:07:48 UTC] WordPress数据库查询SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('category') AND t.term_id IN ( 6,33,31,34,211,103,4,104,105,3,106,107,7,5,1 ) ORDER BY t.name ASC 时发生Out of resources when opening file '/tmp/#sql_1753_0.MYI' (Errcode: 24)错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/single.php'), get_header, locate_template, load_template, require_once('/themes/presscore-lite/header.php'), presscore_header, wp_nav_menu, wp_get_nav_menu_items, get_terms查询的。
+[03-Sep-2014 22:29:40 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (925, 928, 934, 937, 941, 946, 949) ORDER BY t.name ASC时发生Out of resources when opening file '/tmp/#sql_62b5_0.MYD' (Errcode: 24)错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[03-Sep-2014 22:29:40 UTC] WordPress数据库查询SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('category') AND t.term_id IN ( 6,33,31,34,211,103,4,104,105,3,106,107,7,5,1 ) ORDER BY t.name ASC 时发生Out of resources when opening file '/tmp/#sql_62b5_0.MYD' (Errcode: 24)错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_header, locate_template, load_template, require_once('/themes/presscore-lite/header.php'), presscore_header, wp_nav_menu, wp_get_nav_menu_items, get_terms查询的。
+[03-Sep-2014 22:29:40 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (238, 339, 661, 667, 710, 730, 811, 909) ORDER BY t.name ASC时发生Out of resources when opening file '/tmp/#sql_62b5_0.MYD' (Errcode: 24)错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[03-Sep-2014 22:29:41 UTC] WordPress数据库查询SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('category') AND tt.count > 0 ORDER BY t.name ASC 时发生Out of resources when opening file '/tmp/#sql_62b5_0.MYD' (Errcode: 24)错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_sidebar, locate_template, load_template, require_once('/themes/presscore-lite/sidebar.php'), dynamic_sidebar, call_user_func_array, wp_cumulus_widget, wp_cumulus_createflashcode, wp_list_categories, get_categories, get_terms查询的。
+[20-Sep-2014 12:27:32 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[03-Oct-2014 23:31:54 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[09-Oct-2014 14:28:16 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[16-Oct-2014 06:59:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/mazhaerc/public_html/wp-includes/query.php on line 1480
+[20-Oct-2014 13:12:53 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'widget_akismet_widget' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_widgets_init, do_action('widgets_init'), call_user_func_array, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget->get_settings, get_option查询的。
+[21-Oct-2014 17:17:29 UTC] WordPress数据库查询SELECT user_id, meta_key, meta_value FROM wp_usermeta WHERE user_id IN (2) ORDER BY umeta_id ASC时发生Query execution was interrupted错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), setup_postdata, get_userdata, get_user_by, WP_User->init, WP_User->for_blog, WP_User->_init_caps, get_user_meta, get_metadata, update_meta_cache查询的。
+[27-Oct-2014 16:49:22 UTC] WordPress数据库查询SELECT   wp_posts.ID FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND ((wp_posts.post_status = 'publish'))  ORDER BY RAND() DESC LIMIT 0, 8时发生Query execution was interrupted错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts查询的。
+[29-Oct-2014 09:26:48 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 10:28:48 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 11:27:38 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 12:30:14 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 13:29:09 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 14:28:55 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 15:28:10 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 16:28:16 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 17:28:57 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 18:28:32 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 19:28:39 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 20:28:44 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 21:30:07 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 22:30:10 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[29-Oct-2014 23:28:12 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 00:30:10 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 01:29:16 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 02:29:21 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 03:29:27 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 04:29:36 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 05:00:47 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'uninstall_plugins' LIMIT 1时发生Query execution was interrupted错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/baidusubmit/main.php'), register_uninstall_hook, get_option查询的。
+[30-Oct-2014 05:28:04 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 06:29:51 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 07:29:55 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 08:31:17 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 09:30:12 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 10:28:51 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 11:26:55 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 12:27:05 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 13:27:11 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 14:27:06 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 15:27:25 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 16:27:32 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 17:27:38 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 18:27:26 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 19:27:48 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 20:27:54 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 21:28:03 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 22:26:53 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[30-Oct-2014 23:26:58 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 00:27:08 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 01:27:15 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 02:27:26 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 03:28:41 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 04:28:52 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 05:27:48 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 06:27:55 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 07:27:35 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 08:28:08 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[31-Oct-2014 09:28:14 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '无法解析duoshuo.com域名，请重试或检查你的主机的域名解析(DNS)设置。' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[04-Nov-2014 13:42:53 UTC] WordPress数据库查询SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('category') AND t.term_id IN ( 6,33,31,34,211,103,4,104,105,3,106,107,7,5,1 ) ORDER BY t.name ASC 时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_header, locate_template, load_template, require_once('/themes/presscore-lite/header.php'), presscore_header, wp_nav_menu, wp_get_nav_menu_items, get_terms查询的。
+[04-Nov-2014 13:52:19 UTC] WordPress数据库查询SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('category') AND tt.count > 0 ORDER BY t.name ASC 时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_sidebar, locate_template, load_template, require_once('/themes/presscore-lite/sidebar.php'), dynamic_sidebar, call_user_func_array, wp_cumulus_widget, wp_cumulus_createflashcode, wp_list_categories, get_categories, get_terms查询的。
+[04-Nov-2014 14:01:46 UTC] WordPress数据库查询SELECT * FROM wp_posts WHERE ID = 1005 LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), post_thumbnail, wp_get_attachment_image_src, image_downsize, wp_attachment_is_image, get_post, WP_Post::get_instance查询的。
+[04-Nov-2014 14:24:01 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'widget_pages' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_widgets_init, do_action('widgets_init'), call_user_func_array, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget->get_settings, get_option查询的。
+[04-Nov-2014 14:27:03 UTC] WordPress数据库查询SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (58,131,136,347,417,699,786,863) ORDER BY meta_id ASC时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_postmeta_cache, update_meta_cache查询的。
+[04-Nov-2014 14:37:46 UTC] WordPress数据库查询SELECT * FROM wp_posts WHERE ID = 418 LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), post_thumbnail, wp_get_attachment_image_src, image_downsize, wp_attachment_is_image, get_post, WP_Post::get_instance查询的。
+[04-Nov-2014 14:45:03 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'widget_views' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_widgets_init, do_action('widgets_init'), call_user_func_array, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget->get_settings, get_option查询的。
+[04-Nov-2014 15:43:57 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (973, 978, 981, 985, 990, 997, 1002) ORDER BY t.name ASC时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[04-Nov-2014 15:49:56 UTC] WordPress数据库查询SELECT option_value FROM wp_options WHERE option_name = 'widget_ds-recent-comments' LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, wp_widgets_init, do_action('widgets_init'), call_user_func_array, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget->get_settings, get_option查询的。
+[04-Nov-2014 15:52:31 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (285, 303, 676, 773, 859, 919, 928) ORDER BY t.name ASC时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[04-Nov-2014 15:52:33 UTC] WordPress数据库查询SELECT * FROM wp_posts WHERE ID = 678 LIMIT 1时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), post_thumbnail, wp_get_attachment_image_src, image_downsize, wp_attachment_is_image, get_post, WP_Post::get_instance查询的。
+[04-Nov-2014 16:03:58 UTC] WordPress数据库查询SELECT comment_count, ID, post_title, post_date ,post_type FROM wp_posts WHERE  post_type = 'post' AND post_date BETWEEN '2014-08-06 16:03:58' AND '2014-11-04 16:03:58' ORDER BY comment_count DESC LIMIT 0 , 6时发生Lost connection to MySQL server during query错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/single.php'), get_sidebar, locate_template, load_template, require_once('/themes/presscore-lite/sidebar.php'), dynamic_sidebar, call_user_func_array, WP_Widget->display_callback, bigfa_widget->widget查询的。
+[05-Nov-2014 03:27:50 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php:53
+Stack trace:
+#0 [internal function]: Duoshuo_Abstract->syncLog()
+#1 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#2 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#3 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php on line 53
+[05-Nov-2014 12:42:01 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (295) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_64bb_2); waiting for someone to free some space...错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[05-Nov-2014 12:42:03 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (131, 352, 495, 649, 710, 811, 906) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_64bb_1); waiting for someone to free some space...错�[14-Nov-2014 09:31:20 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[17-Nov-2014 09:49:06 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (144, 441, 487, 676, 689, 767, 897, 913) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_1602_0); waiting for someone to free some space...错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[17-Nov-2014 09:50:28 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (45, 112, 251, 638, 736, 767, 773) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_1602_0); waiting for someone to free some space...错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[17-Nov-2014 10:55:15 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (973, 978, 981, 985, 990, 997, 1002) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_3215_2); waiting for someone to free some space...错误，这是由require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms查询的。
+[17-Nov-2014 10:55:15 UTC] WordPress数据库查询SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (107, 413, 638, 689, 756, 779, 913, 957) ORDER BY t.name ASC时发生Disk full (/tmp/#sql_3215_2); waiting for someone to free some space...错误，这是由require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/presscore-lite/index.php'), get_template_part, locate_template, load_template, require('/themes/presscore-lite/random-posts.php'), get_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_term[22-Nov-2014 10:29:21 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
+[19-Dec-2014 06:50:56 UTC] PHP Fatal error:  Uncaught exception 'Duoshuo_Exception' with message '操作超时，请重试或联系多说管理员。http://dev.duoshuo.com/' in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php:93
+Stack trace:
+#0 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php(50): Duoshuo_Client->httpRequest('http://api.duos...', 'GET', Array)
+#1 /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Abstract.php(50): Duoshuo_Client->request('GET', 'log/list', Array)
+#2 [internal function]: Duoshuo_Abstract->syncLog()
+#3 /home/mazhaerc/public_html/wp-includes/plugin.php(546): call_user_func_array(Array, Array)
+#4 /home/mazhaerc/public_html/wp-cron.php(100): do_action_ref_array('duoshuo_sync_lo...', Array)
+#5 {main}
+  thrown in /home/mazhaerc/public_html/wp-content/plugins/duoshuo/Client.php on line 93
